@@ -7,3 +7,6 @@ how to run on local machine
 3. type "npm install" in local terminal it will install node module .
 
 4. npm run dev to start code . 
+
+
+Live Link Bot No2 :- https://chatbot-ai1.netlify.app/
