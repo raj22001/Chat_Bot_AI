@@ -5,7 +5,7 @@ import { MainContainer, ChatContainer, MessageList, Message, MessageInput, Typin
 
 
 
-const API_KEY = "sk-862CMNIVZU3O5FncmjgZT3BlbkFJabDof2D4B02x7uaTeSte";
+const API_KEY = "Your_API key";
 
 function App() {
 
